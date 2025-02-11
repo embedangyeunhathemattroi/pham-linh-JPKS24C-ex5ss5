@@ -1,0 +1,10 @@
+.table-02{
+    background-color: #f4e08b; 
+    padding: 15px; 
+    border-radius: 5px; 
+    border: 1px solid #d4c56b; 
+    width: fit-content;
+    border-left: 10px solid #FFD700;
+    padding-left: 55px;
+    margin: 10px 0;
+}
